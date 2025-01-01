@@ -11,7 +11,7 @@ QuizJS é uma biblioteca simples para a criação de Quizzes com HTML e Javascri
 - HTML
 
 ## Links
-<a href="https://bielgomes.github.io/QuizJS-lib/">Acesse o exemplo</a>
+<a href="https://bielgomes.github.io/quizjs-lib/">Acesse o exemplo</a>
 
 # Documentação
 
